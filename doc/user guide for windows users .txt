@@ -1,0 +1,14 @@
+1. Navigate to the "exe" directory:
+Open your file explorer or use the command-line interface to locate the directory where the "exe" file is stored.
+
+2. Double-click on "Hello_world.exe":
+Double-click on the "Hello_world.exe" file to launch the program. This will typically open the program's window.
+
+3. Allow the execution of the software:
+If a User Account Control (UAC) prompt appears, click "Allow" or "Yes" to grant permission for the program to run.
+
+4. Wait for the GUI interface:
+The program's graphical user interface (GUI) should appear shortly. Please be patient while the program loads. you will see the "Hello_World" message , associated with a counter that keeps track of how many times you ran the program on your computer
+
+5. Exit the program:
+To close the program, click the red "X" button in the top right corner of the window. You can also use the "File" menu or keyboard shortcuts (e.g., Alt+F4) to exit the program.
