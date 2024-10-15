@@ -1,0 +1,15 @@
+A. using the file explorer : 
+1. Open you file explorer and locate the directory to where the "helloworld.exe" file is located 
+2. Double-click on the "Hello_world.exe" file to launch the program 
+3. it should now display a graphical user interface (GUI) of the program 
+4. Exit the program by clicking the close button in the window (or by pressing Ctrl + Q or Alt + F4).
+
+B. using the terminal : 
+1. open the terminal 
+2. navigate the path to the directory where the "Hello_world.exe" is located with the command cd /path_to_the_file 
+3. give the permission for executing the file with the command chmod +x Hello_world.exe 
+4. run the following command : ./Hello_world.exe 
+5. now it should display the GUI along with the sentence 
+6. exit the file be ctrl + D and exit the terminal as well with ctrl + D
+
+
